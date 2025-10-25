@@ -108,4 +108,7 @@
   <img src="https://komarev.com/ghpvc/?username=JDH-LR-994&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter">
 </p>
 
-<img src="./gray0_ctp_on_line.png">
+<p align="center">
+  <img src="./gray0_ctp_on_line.png" alt="Catppuccin divider" width="100%" style="max-width: 100%; height: auto;">
+</p>
+
